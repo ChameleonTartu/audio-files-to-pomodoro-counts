@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "read and write audio tags for many formats"
+name = "mutagen"
+optional = false
+python-versions = "*"
+version = "1.42.0"
+
+[metadata]
+content-hash = "f9578dff604098b0c6455e9a675d87f2e219302e91eb288aaf09af9eb7a9a9f7"
+python-versions = "3.7.4"
+
+[metadata.hashes]
+mutagen = ["bb61e2456f59a9a4a259fbc08def6d01ba45a42da8eeaa97d00633b0ec5de71c"]
